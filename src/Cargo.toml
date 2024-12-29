@@ -1,0 +1,9 @@
+[package]
+name = "src"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossbeam = "0.8"
+rand = "0.9.0-beta.1" # or the latest version
+
